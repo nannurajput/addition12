@@ -6,6 +6,6 @@ clrscr();
 int a,b,c;
 a=12;
 b=23;
-c=a+b;
+c=b-c;
 printf("result"+c);
 }
